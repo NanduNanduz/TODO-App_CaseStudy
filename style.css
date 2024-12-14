@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(../images/homebg.jpg);
+  background-size: cover;
+  
+  /* background-repeat: no-repeat;
+  background-attachment: fixed; */
+}
+.navbar{
+     background-color: rgb(247, 136, 136) !important ;
+}
+.nav-link.active {
+  text-decoration: underline;
+}
+.nav-item a:hover {
+  text-decoration: underline;
+}
+
+.card-header{
+    background-color: rgb(247, 136, 136) !important ;
+}
+ form .btn{
+    background-color: rgb(247, 136, 136) !important ;
+ }
+
+
+ footer{
+     background-color: rgb(247, 136, 136) !important ;
+
+ }
