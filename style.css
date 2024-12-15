@@ -7,11 +7,13 @@ body {
   background-image: url(../images/homebg.jpg);
   background-size: cover;
 
+
   /* background-repeat: no-repeat;
   background-attachment: fixed; */
 }
 .navbar {
   background-color: rgb(247, 136, 136) !important ;
+
 }
 .nav-link.active {
   text-decoration: underline;
