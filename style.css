@@ -25,6 +25,11 @@ body {
 .card-header {
   background-color: rgb(247, 136, 136) !important ;
 }
+.card {
+  width: 100%;
+  max-width: 600px;  /* You can set a maximum width for the card */
+  margin: auto; /* Center the card horizontally */
+}
 
 .logo-img {
   height: 50px;
